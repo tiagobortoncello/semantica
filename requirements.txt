@@ -1,3 +1,4 @@
 streamlit
+spacy
 sentence-transformers
-torch
+scikit-learn
